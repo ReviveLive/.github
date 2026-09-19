@@ -4,4 +4,4 @@
 
 # Revive Live
 
-![Revive Live](../docs/logo.png)
+![Revive Live](logo_anim_full.svg)
